@@ -3,6 +3,7 @@ title: "Practice Activity 6"
 format: html
 embed-resources: true
 editor: visual
+author: sophie, ellexis, emma
 ---
 
 ## Quarto
